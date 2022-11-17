@@ -1,0 +1,10 @@
+dic={'car':'polo gt','price':'8 lakhs','colour':'red','yr':2012}
+print(dic)
+dic.update({'hp':1000})
+print(dic)
+a=dic.copy()
+print(a)
+b=dic.keys()
+print(b)
+c=dic.values()
+print(c)
